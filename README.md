@@ -1,6 +1,15 @@
 # JS.LA Presentation on PureScript
-## SLIDE 1
-What is _PURE_ functional coding:
+
+## Overview
+# Slide 1: What is PureScript, history and similar projects
+# Slide 2: Introduce Lambda Calculus and the beginning of computer science; Alan Turing & Alonzo Church
+# Slide 3: What is _PURE_ and functional programming
+# Slide 4: Explain Applicative Functors and how they lead to Monads, and how monads can be used to check for null cases
+# Slide 5: Explain FRP through observer patterns and applicative functors, and how FRP can be used to structure event-driven web applications
+# Slide 6: Show some common interview questions in PureScript; code examples
+# Slide 7: Show some projects that use purescript; Gathering/Music Visualizer
+
+## What is _PURE_ functional coding:
 This is a technical post series about pure functional programming. The intended audience is general programmers who are familiar with closures and some functional programming.
 
 We're going to be seeing how pure functional programming differs from regular "functional programming", in a significant way.
