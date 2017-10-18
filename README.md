@@ -1,13 +1,56 @@
 # JS.LA Presentation on PureScript
 
+Purely Functional Programming, Monads, and PureScript
+====================================================
+
+#### Slide 1: What is purely functional programming
+              It's use today in FaceBook Flow and TypeScript
+
+              Define a Function
+
+              The Vertical Line Test
+              Function Composition
+              Controlled Side-effects with Monads
+
+#### Slide 2: What is PureScript
+              PureScript: A Purely functional Programming
+              language that compiles down to JavaScript
+
+              Features, Pattern Matchings, Guards, Case statements, and
+              Type Classes
+
+#### Slide 3: Common Software Engineering Interview Questions in PureScript
+              The Palindrome Question
+              The Anagram Question
+              Binary Search Trees
+              The Fibonacci Sequence
+
+#### Slide 4: Applicative Functors, Monads, and Do Syntax
+              Applicative Functors
+              Monads
+              Do Syntax
+
+#### Slide 5: Example: The Maybe Monad
+              A practical Example of using the Maybe Monad
+              Examples in FaceBook Flow
+              Examples in TypeScript
+
+              The Aff Monad: Show an Example
+
+#### Slide 6: Example Products built in PureScript
+              A Todo MVC
+              Japanese Language Learning Game
+
+/******************************************************
 ## Overview
-# Slide 1: What is PureScript, history and similar projects
-# Slide 2: Introduce Lambda Calculus and the beginning of computer science; Alan Turing & Alonzo Church
-# Slide 3: What is _PURE_ and functional programming
-# Slide 4: Explain Applicative Functors and how they lead to Monads, and how monads can be used to check for null cases
-# Slide 5: Explain FRP through observer patterns and applicative functors, and how FRP can be used to structure event-driven web applications
-# Slide 6: Show some common interview questions in PureScript; code examples
-# Slide 7: Show some projects that use purescript; Gathering/Music Visualizer
+#### Slide 1: What is PureScript, history and similar projects
+#### Slide 2: Introduce Lambda Calculus and the beginning of computer science; Alan Turing & Alonzo Church
+#### Slide 3: What is _PURE_ and functional programming
+#### Slide 4: Explain Applicative Functors and how they lead to Monads, and how monads can be used to check for null cases
+#### Slide 5: Explain FRP through observer patterns and applicative functors, and how FRP can be used to structure event-driven web applications
+#### Slide 6: Show some common interview questions in PureScript; code examples
+#### Slide 7: Show some projects that use purescript; Gathering/Music Visualizer
+**********************************************************/
 
 ## What is _PURE_ functional coding:
 This is a technical post series about pure functional programming. The intended audience is general programmers who are familiar with closures and some functional programming.
