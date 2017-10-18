@@ -12,6 +12,9 @@ Purely Functional Programming, Monads, and PureScript
               Function Composition
               Controlled Side-effects with Monads
 
+              Why Javascript is not a Purely Functional Programming
+              language
+
 #### Slide 2: What is PureScript
               PureScript: A Purely functional Programming
               language that compiles down to JavaScript
@@ -40,6 +43,8 @@ Purely Functional Programming, Monads, and PureScript
 #### Slide 6: Example Products built in PureScript
               A Todo MVC
               Japanese Language Learning Game
+
+#### Slide 7: Concluding Remarks
 
 /******************************************************
 ## Overview
